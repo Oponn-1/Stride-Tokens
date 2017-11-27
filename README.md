@@ -6,9 +6,10 @@ In this project, the goal is to create a web application that will allow users t
 Tokens are rewarded proportional to the length of the rides drivers fullfill. The tokens can be sold and bought on the same web application. 
 
 
-TODO
--Create the Node.js server to maintain information pertinent to verifying rides and to append the verification function to the blockchain using the contract owner's address
--Flesh out the React.js front end to show people their tokens, offer trading, and display rides
--Embed Google Maps to show the routes and to generate the distance data
+**TODO**
+
+1. Create the Node.js server to maintain information pertinent to verifying rides and to append the verification function to the blockchain using the contract owner's address.
+1. Flesh out the React.js front end to show people their tokens, offer trading, and display rides.
+1. Embed Google Maps to show the routes and to generate the distance data.
 
 One of the biggest challenges: designing and writing the token smart contract, is basically done. The contract will be adapted to do a bit less as teh node.js server is fleshed out. 
