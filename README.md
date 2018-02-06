@@ -7,7 +7,7 @@ Tokens are rewarded proportional to the length of the rides drivers fullfill. Th
 
 Tokens can be used to pay for rides or they can be bought and sold to others for ethereum.
 
-**TODO**
+## In The Future
 
 1. Code up the Node.js server to maintain information pertinent to verifying rides and to append the verification function to the blockchain using the contract owner's address.
 1. Flesh out the React.js front end to show people their tokens, offer trading, and display rides.
